@@ -1,5 +1,5 @@
 <h1>Image Finder</h1>
-<p>Android application to search images using <a href="</a>">Flickr API</a>.</p>
+<p>Android application to search images using <a href="https://www.flickr.com/services/api/">Flickr API</a>.</p>
 
 <h2>Technologies</h2>
 <ul>
